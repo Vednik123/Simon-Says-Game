@@ -1,4 +1,5 @@
 # Simon Says Game
+Website Link - https://vednik123.github.io/Simon-Says-Game/
 
 This is a Simon Says game built using HTML, CSS, and JavaScript. The game challenges the player's memory and reaction time by requiring them to repeat a growing sequence of colors. It also tracks the player's score and high score.
 
